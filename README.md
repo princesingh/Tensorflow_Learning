@@ -1,8 +1,8 @@
-# Tensorflow_Learning
+# Tensorflow Learning
 
 ## 00_tensors.py
 
-This file will contains basic of tensor flow
+This file contains basic of tensor flow
 
 * Introduction to tensor
 * Getting information from tensor
